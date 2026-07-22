@@ -3,7 +3,7 @@
 
 > A collection of Governance, Risk, and Compliance (GRC) projects demonstrating practical experience with enterprise security frameworks.
 
-![GRC Portfolio](https://img.shields.io/badge/GRC-Portfolio-blue?style=for-the-badge) ![Projects](https://img.shields.io/badge/Projects-1-green?style=for-the-badge)
+![GRC Portfolio](https://img.shields.io/badge/GRC-Portfolio-blue?style=for-the-badge) ![Projects](https://img.shields.io/badge/Projects-2-green?style=for-the-badge)
 
 ---
 
@@ -11,11 +11,10 @@
 
 | Metric | Count |
 |--------|-------|
-| Projects Completed | 1 |
+| Projects Completed | 2 |
 | Assets Managed | 3 |
 | Risks Assessed | 5 |
 | Controls Implemented | 5 |
-| Evidence Screenshots | 3 |
 
 ---
 
@@ -37,7 +36,19 @@
 - Developed 5 risk treatment plans with documented mitigation strategies, acceptance criteria, and residual risk calculations
 - Completed ISO 27001 risk assessment documentation supporting certification readiness for cloud infrastructure
 
-**Evidence:** 3 screenshot(s) available in `/evidence/iso-risk-assessment/` folder
+---
+
+### FinSecure Banking
+**Third-Party Risk Management for Payment Processor**
+
+![Progress](https://img.shields.io/badge/Progress-25%25-yellow) ![PCI DSS](https://img.shields.io/badge/-PCI%20DSS-informational) ![SOC 2](https://img.shields.io/badge/-SOC%202-informational) 
+
+| Assets | Risks | Controls | Tasks |
+|--------|-------|----------|-------|
+| 0 | 0 | 0 | 1/4 |
+
+**Key Accomplishments:**
+- Conducted third-party security assessments for 1 vendor(s), evaluating security posture against PCI DSS and SOC 2 requirements
 
 ---
 
@@ -69,10 +80,9 @@
 grc-portfolio/
 ├── README.md          # This file
 ├── evidence/          # Screenshots and documentation
-│   └── iso-risk-assessment/
 └── portfolio.html     # Standalone portfolio page
 ```
 
 ---
 
-*Generated with [GRC Practice Lab](https://grcmadesimple.com) on 21/07/2026*
+*Generated with [GRC Practice Lab](https://grcmadesimple.com) on 22/07/2026*
